@@ -1,0 +1,21 @@
+
+
+.revuelto header{
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.legenda{
+    text-align: center;
+    list-style-position: inside;
+}
+
+.header{
+    text-align: center;
+}
+
+.footer{
+
+    text-align: center;
+    background-color: red ;
+}
